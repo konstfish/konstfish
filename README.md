@@ -1,6 +1,6 @@
 <div align="center">
     <br />
-    <img src="./fish.svg" alt="Logo" width="450"/>
+    <img src="https://raw.githubusercontent.com/konstfish/konstfish/master/fish.svg" alt="Logo" width="450"/>
     <h3>📀</h3>
 </div>
 <!--

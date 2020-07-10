@@ -1,12 +1,8 @@
-# 🐳
-```
-🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-   🐠        🐟                         🐡
-                         🐠
-                🐡             🐟        🐠
-      🐟
-         🐠             🐟        🐡
-```
+<div align="center">
+    <br />
+    <img src="./fish.svg" alt="Logo" width="450"/>
+    <h3>📀</h3>
+</div>
 <!--
 **konstfish/konstfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

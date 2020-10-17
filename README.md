@@ -6,6 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   38 mins         ████████████████████████▓   99.25 % 
+Python   38 mins         █████████████████████████   99.85 % 
 ```
 <!--END_SECTION:waka-->

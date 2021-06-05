@@ -6,6 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CoffeeScript   1 min           █████████████░░░░░░░░░░░░   52.46 % 
 ```
 <!--END_SECTION:waka-->

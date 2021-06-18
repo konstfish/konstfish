@@ -6,6 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-CoffeeScript   1 min           █████████████░░░░░░░░░░░░   52.46 % 
+Python   13 mins         ████████████████████████▓   98.64 % 
 ```
 <!--END_SECTION:waka-->

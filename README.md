@@ -6,6 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       1 hr 45 mins    ███████████████████▒░░░░░   77.07 % 
+Jinja2     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Markdown   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->

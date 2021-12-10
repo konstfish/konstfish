@@ -6,6 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Solidity     1 min           ████████████▒░░░░░░░░░░░░   49.83 % 
 ```
 <!--END_SECTION:waka-->

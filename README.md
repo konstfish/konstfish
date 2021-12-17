@@ -6,6 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Solidity     1 min           █████████████████▒░░░░░░░   69.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

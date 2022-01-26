@@ -6,8 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 13 mins    █████████████████▓░░░░░░░   70.14 % 
-JavaScript   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Solidity     12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Python       2 hrs 12 mins   ██████████████████▓░░░░░░   74.58 % 
+Solidity     20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+JavaScript   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 <!--END_SECTION:waka-->

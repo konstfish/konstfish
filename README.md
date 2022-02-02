@@ -6,8 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       58 mins         ████████████████████▒░░░░   80.99 % 
-Solidity     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

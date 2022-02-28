@@ -5,8 +5,9 @@
 </div>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   18 mins         ██████████████████████▓░░   90.32 % 
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->

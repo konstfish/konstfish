@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   15 mins         ████████████████████████▓   98.66 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

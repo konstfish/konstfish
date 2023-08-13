@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     5 mins          ████████████████████░░░░░   80.24 %
-Jinja2   1 min           █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

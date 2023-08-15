@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML           3 hrs 8 mins    ███████████████▒░░░░░░░░░   60.85 %
+TeX            1 hr 31 mins    ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+JavaScript     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Markdown       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+OpenEdge ABL   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->

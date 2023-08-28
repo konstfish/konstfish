@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      32 mins         ████████████████▒░░░░░░░░   64.90 %
-Python   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-Vue.js   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

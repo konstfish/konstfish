@@ -7,8 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   49 mins         ███████████████████████▓░   94.75 %
-YAML       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Markdown   1 hr 18 mins    ████████████████████████░   96.62 %
+YAML       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->

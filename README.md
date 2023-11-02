@@ -1,9 +1,9 @@
-<div align="center">
-    <a href="https://konst.fish">
-        <img src="https://raw.githubusercontent.com/konstfish/konstfish/master/fish.svg" alt="Logo" width="450"/>
-    </a>
-</div>
+# David Fischer
+<img alt="David Fischer" align='right' src="_attachments/me.jpg" height="180" style="border-radius: 50%; margin-left: 24px;">
 
+> DevOps Engineer. Visit my [webpage](https://konst.fish)!
+
+### WakaTime
 <!--START_SECTION:waka-->
 
 ```txt

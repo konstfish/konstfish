@@ -1,7 +1,11 @@
 # David Fischer
-<img alt="David Fischer" align='right' src="me.jpg" height="180" style="border-radius: 50%; margin-left: 24px;">
 
-> DevOps Engineer. Visit my [webpage](https://konst.fish)!
+<div align="center">
+    <a href="https://konst.fish">
+        <img alt="David Fischer" align='right' src="me.jpg" height="180" style="border-radius: 50%; margin-left: 24px;">
+    </a>
+    DevOps Engineer. Visit my [webpage](https://konst.fish)!
+</div>
 
 ### WakaTime
 <!--START_SECTION:waka-->

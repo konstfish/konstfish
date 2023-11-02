@@ -1,5 +1,5 @@
 # David Fischer
-<img alt="David Fischer" align='right' src="_attachments/me.jpg" height="180" style="border-radius: 50%; margin-left: 24px;">
+<img alt="David Fischer" align='right' src="me.jpg" height="180" style="border-radius: 50%; margin-left: 24px;">
 
 > DevOps Engineer. Visit my [webpage](https://konst.fish)!
 

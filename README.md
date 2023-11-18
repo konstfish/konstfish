@@ -1,10 +1,6 @@
 > DevOps Engineer. Visit my [webpage](https://konst.fish)!
 
 ### WakaTime
-<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/0720114c-0fdf-4014-89a5-4f02c56b767d.svg)](https://wakatime.com/@0720114c-0fdf-4014-89a5-4f02c56b767d)
 
-```txt
-Markdown   1 hr 21 mins    █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
+![wakatime](https://wakatime.com/share/@konstfish/e5f2c1dc-0c74-4b37-a679-7dcd866b46a4.svg)
